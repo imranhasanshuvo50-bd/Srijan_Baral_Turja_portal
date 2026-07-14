@@ -1,0 +1,15 @@
+<svg width="640" height="640" viewBox="0 0 640 640" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Professional developer avatar</title>
+  <desc id="desc">Minimal dark developer style profile avatar with the initials IS.</desc>
+  <rect width="640" height="640" fill="#0D1117"/>
+  <rect x="64" y="64" width="512" height="512" rx="32" fill="#161B22" stroke="#30363D" stroke-width="2"/>
+  <rect x="112" y="112" width="416" height="416" rx="24" fill="#0D1117" stroke="#30363D" stroke-width="2"/>
+  <path d="M176 232C176 214.327 190.327 200 208 200H432C449.673 200 464 214.327 464 232V408C464 425.673 449.673 440 432 440H208C190.327 440 176 425.673 176 408V232Z" fill="#161B22" stroke="#30363D" stroke-width="2"/>
+  <path d="M176 250H464" stroke="#30363D" stroke-width="2"/>
+  <circle cx="204" cy="225" r="6" fill="#F85149"/>
+  <circle cx="226" cy="225" r="6" fill="#D29922"/>
+  <circle cx="248" cy="225" r="6" fill="#3FB950"/>
+  <text x="320" y="352" text-anchor="middle" fill="#F0F6FC" font-family="Inter, Arial, sans-serif" font-size="104" font-weight="700" letter-spacing="0">IS</text>
+  <path d="M238 382H402" stroke="#58A6FF" stroke-width="8" stroke-linecap="round"/>
+  <path d="M268 400H372" stroke="#3FB950" stroke-width="8" stroke-linecap="round"/>
+</svg>

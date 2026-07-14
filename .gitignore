@@ -1,0 +1,13 @@
+.DS_Store
+node_modules
+.next
+out
+dist
+build
+coverage
+tsconfig.tsbuildinfo
+*.log
+.env
+.env.*
+!.env.example
+vercel.json

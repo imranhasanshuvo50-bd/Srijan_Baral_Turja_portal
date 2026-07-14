@@ -1,0 +1,14 @@
+<svg width="960" height="540" viewBox="0 0 960 540" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">2S Battery Management System</title>
+  <desc id="desc">Dark electronics illustration of a two-cell battery management system.</desc>
+  <rect width="960" height="540" fill="#0D1117"/>
+  <rect x="80" y="72" width="800" height="396" rx="24" fill="#161B22" stroke="#30363D" stroke-width="2"/>
+  <rect x="270" y="188" width="174" height="164" rx="20" fill="#0D1117" stroke="#30363D" stroke-width="2"/>
+  <rect x="516" y="188" width="174" height="164" rx="20" fill="#0D1117" stroke="#30363D" stroke-width="2"/>
+  <path d="M444 270H516" stroke="#58A6FF" stroke-width="12" stroke-linecap="round"/>
+  <path d="M314 270H400" stroke="#3FB950" stroke-width="16" stroke-linecap="round"/>
+  <path d="M560 270H646" stroke="#3FB950" stroke-width="16" stroke-linecap="round"/>
+  <path d="M252 384H708" stroke="#30363D" stroke-width="2"/>
+  <text x="357" y="418" text-anchor="middle" fill="#F0F6FC" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700">CELL 1</text>
+  <text x="603" y="418" text-anchor="middle" fill="#F0F6FC" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700">CELL 2</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg width="960" height="540" viewBox="0 0 960 540" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Digital RPM Meter</title>
+  <desc id="desc">Dark meter interface illustration for rotational speed measurement.</desc>
+  <rect width="960" height="540" fill="#0D1117"/>
+  <rect x="80" y="72" width="800" height="396" rx="24" fill="#161B22" stroke="#30363D" stroke-width="2"/>
+  <path d="M300 340C300 240.589 380.589 160 480 160C579.411 160 660 240.589 660 340" stroke="#30363D" stroke-width="24" stroke-linecap="round"/>
+  <path d="M300 340C300 263.46 347.761 198.057 415.108 172.012" stroke="#58A6FF" stroke-width="24" stroke-linecap="round"/>
+  <path d="M480 340L580 238" stroke="#3FB950" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="480" cy="340" r="22" fill="#3FB950"/>
+  <text x="480" y="418" text-anchor="middle" fill="#F0F6FC" font-family="Inter, Arial, sans-serif" font-size="56" font-weight="700">RPM</text>
+  <path d="M360 438H600" stroke="#30363D" stroke-width="2"/>
+</svg>

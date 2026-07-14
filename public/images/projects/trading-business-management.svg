@@ -1,0 +1,15 @@
+<svg width="960" height="540" viewBox="0 0 960 540" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Trading Business Management System</title>
+  <desc id="desc">Dark dashboard illustration for trading business management.</desc>
+  <rect width="960" height="540" fill="#0D1117"/>
+  <rect x="80" y="72" width="800" height="396" rx="24" fill="#161B22" stroke="#30363D" stroke-width="2"/>
+  <rect x="132" y="122" width="180" height="296" rx="16" fill="#0D1117" stroke="#30363D" stroke-width="2"/>
+  <rect x="348" y="122" width="480" height="116" rx="16" fill="#0D1117" stroke="#30363D" stroke-width="2"/>
+  <rect x="348" y="270" width="480" height="148" rx="16" fill="#0D1117" stroke="#30363D" stroke-width="2"/>
+  <path d="M390 358L462 322L538 344L618 292L766 346" stroke="#58A6FF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="380" y="154" width="84" height="22" rx="6" fill="#58A6FF"/>
+  <rect x="380" y="192" width="180" height="14" rx="7" fill="#30363D"/>
+  <rect x="164" y="164" width="116" height="16" rx="8" fill="#30363D"/>
+  <rect x="164" y="210" width="86" height="16" rx="8" fill="#3FB950"/>
+  <rect x="164" y="256" width="124" height="16" rx="8" fill="#30363D"/>
+</svg>

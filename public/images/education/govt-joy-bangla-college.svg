@@ -1,0 +1,12 @@
+<svg width="1100" height="825" viewBox="0 0 1100 825" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Govt. Joy Bangla College academic card</title>
+  <desc id="desc">A clean academic image card for Govt. Joy Bangla College.</desc>
+  <rect width="1100" height="825" fill="#0B1220"/>
+  <rect x="72" y="72" width="956" height="681" rx="28" fill="#111827" stroke="#2563EB" stroke-width="4"/>
+  <rect x="128" y="150" width="844" height="118" rx="12" fill="#172554"/>
+  <text x="550" y="221" text-anchor="middle" fill="#EFF6FF" font-family="Inter, Arial, sans-serif" font-size="44" font-weight="700">Govt. Joy Bangla College</text>
+  <text x="550" y="366" text-anchor="middle" fill="#93C5FD" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="600">Higher Secondary Certificate</text>
+  <text x="550" y="430" text-anchor="middle" fill="#E5E7EB" font-family="Inter, Arial, sans-serif" font-size="28">Science Group | HSC 2024</text>
+  <line x1="260" y1="505" x2="840" y2="505" stroke="#2563EB" stroke-width="4"/>
+  <text x="550" y="595" text-anchor="middle" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="54" font-weight="800">GPA 4.08 / 5.00</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg width="1100" height="825" viewBox="0 0 1100 825" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Khulna Zilla School academic card</title>
+  <desc id="desc">A clean academic image card for Khulna Zilla School.</desc>
+  <rect width="1100" height="825" fill="#0B1220"/>
+  <rect x="72" y="72" width="956" height="681" rx="28" fill="#111827" stroke="#22C55E" stroke-width="4"/>
+  <rect x="128" y="150" width="844" height="118" rx="12" fill="#14532D"/>
+  <text x="550" y="221" text-anchor="middle" fill="#F0FDF4" font-family="Inter, Arial, sans-serif" font-size="48" font-weight="700">Khulna Zilla School</text>
+  <text x="550" y="366" text-anchor="middle" fill="#86EFAC" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="600">Secondary School Certificate</text>
+  <text x="550" y="430" text-anchor="middle" fill="#E5E7EB" font-family="Inter, Arial, sans-serif" font-size="28">Science Group | SSC 2022</text>
+  <line x1="260" y1="505" x2="840" y2="505" stroke="#22C55E" stroke-width="4"/>
+  <text x="550" y="595" text-anchor="middle" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="54" font-weight="800">GPA 5.00 / 5.00</text>
+</svg>

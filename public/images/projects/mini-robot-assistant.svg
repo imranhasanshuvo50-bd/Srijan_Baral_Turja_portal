@@ -1,0 +1,13 @@
+<svg width="960" height="540" viewBox="0 0 960 540" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Mini Robot Assistant</title>
+  <desc id="desc">Minimal dark illustration of a small robot assistant.</desc>
+  <rect width="960" height="540" fill="#0D1117"/>
+  <rect x="80" y="72" width="800" height="396" rx="24" fill="#161B22" stroke="#30363D" stroke-width="2"/>
+  <rect x="336" y="150" width="288" height="230" rx="36" fill="#0D1117" stroke="#30363D" stroke-width="2"/>
+  <rect x="384" y="202" width="192" height="86" rx="22" fill="#161B22" stroke="#30363D" stroke-width="2"/>
+  <circle cx="438" cy="245" r="14" fill="#58A6FF"/>
+  <circle cx="522" cy="245" r="14" fill="#3FB950"/>
+  <path d="M422 322H538" stroke="#58A6FF" stroke-width="10" stroke-linecap="round"/>
+  <path d="M352 398H608" stroke="#30363D" stroke-width="18" stroke-linecap="round"/>
+  <path d="M480 150V112" stroke="#3FB950" stroke-width="10" stroke-linecap="round"/>
+</svg>

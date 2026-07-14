@@ -1,0 +1,13 @@
+<svg width="960" height="540" viewBox="0 0 960 540" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Sonar Positioning System</title>
+  <desc id="desc">Dark technical illustration of sonar waves and position tracking.</desc>
+  <rect width="960" height="540" fill="#0D1117"/>
+  <rect x="80" y="72" width="800" height="396" rx="24" fill="#161B22" stroke="#30363D" stroke-width="2"/>
+  <circle cx="480" cy="270" r="42" fill="#0D1117" stroke="#58A6FF" stroke-width="8"/>
+  <circle cx="480" cy="270" r="94" stroke="#30363D" stroke-width="4"/>
+  <circle cx="480" cy="270" r="150" stroke="#30363D" stroke-width="4"/>
+  <path d="M480 270L642 188" stroke="#3FB950" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="642" cy="188" r="18" fill="#3FB950"/>
+  <path d="M260 412H700" stroke="#30363D" stroke-width="2"/>
+  <path d="M318 412L390 340L462 412L552 322L642 412" stroke="#58A6FF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,149 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Color primitives */
+  --color-black: 0 0 0;
+  --color-white: 255 255 255;
+  --color-github-950: 13 17 23;
+  --color-github-900: 22 27 34;
+  --color-github-850: 33 38 45;
+  --color-github-800: 48 54 61;
+  --color-github-700: 72 79 88;
+  --color-github-600: 110 118 129;
+  --color-github-300: 201 209 217;
+  --color-github-100: 240 246 252;
+  --color-blue-400: 88 166 255;
+  --color-blue-500: 56 139 253;
+  --color-violet-400: 124 92 255;
+  --color-green-400: 63 185 80;
+  --color-green-500: 46 160 67;
+  --color-yellow-400: 210 153 34;
+  --color-red-400: 248 81 73;
+
+  /* Semantic colors */
+  --canvas: 2 8 23;
+  --canvas-muted: 3 13 31;
+  --canvas-elevated: 6 16 38;
+  --canvas-overlay: 10 24 52;
+  --surface-card: 8 20 43;
+  --surface-card-hover: var(--color-github-850);
+  --surface-inset: 3 10 24;
+  --foreground: var(--color-github-100);
+  --foreground-muted: var(--color-github-300);
+  --foreground-subtle: var(--color-github-600);
+  --foreground-disabled: var(--color-github-700);
+  --border: var(--color-github-800);
+  --border-muted: var(--color-github-850);
+  --border-strong: var(--color-github-700);
+  --accent: var(--color-blue-400);
+  --accent-hover: var(--color-violet-400);
+  --accent-muted: 14 50 92;
+  --accent-secondary: var(--color-green-400);
+  --accent-secondary-hover: var(--color-green-500);
+  --accent-secondary-muted: 13 59 31;
+  --success: var(--color-green-400);
+  --success-muted: 13 59 31;
+  --warning: var(--color-yellow-400);
+  --warning-muted: 68 50 19;
+  --danger: var(--color-red-400);
+  --danger-muted: 74 25 23;
+
+  /* Typography */
+  --font-size-xs: 0.75rem;
+  --font-size-sm: 0.875rem;
+  --font-size-base: 1rem;
+  --font-size-lg: 1.125rem;
+  --font-size-xl: 1.25rem;
+  --font-size-2xl: 1.5rem;
+  --font-size-3xl: 1.875rem;
+  --font-size-4xl: 2.25rem;
+  --font-size-5xl: 3rem;
+  --font-size-6xl: 3.75rem;
+  --line-height-tight: 1.1;
+  --line-height-snug: 1.25;
+  --line-height-normal: 1.5;
+  --line-height-relaxed: 1.75;
+  --font-weight-regular: 400;
+  --font-weight-medium: 500;
+  --font-weight-semibold: 600;
+  --font-weight-bold: 700;
+
+  /* Spacing */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.25rem;
+  --space-6: 1.5rem;
+  --space-8: 2rem;
+  --space-10: 2.5rem;
+  --space-12: 3rem;
+  --space-16: 4rem;
+  --space-20: 5rem;
+  --space-24: 6rem;
+  --space-28: 7rem;
+  --space-32: 8rem;
+  --space-section-sm: 5rem;
+  --space-section-md: 7rem;
+  --space-section-lg: 9rem;
+
+  /* Radius */
+  --radius-xs: 0.25rem;
+  --radius-sm: 0.375rem;
+  --radius-md: 0.5rem;
+  --radius-lg: 0.5rem;
+  --radius-xl: 0.75rem;
+  --radius-full: 9999px;
+
+  /* Shadows */
+  --shadow-soft: 0 18px 50px rgb(0 0 0 / 0.28);
+  --shadow-card: 0 16px 40px rgb(0 0 0 / 0.22);
+  --shadow-elevated: 0 24px 80px rgb(0 0 0 / 0.35);
+  --shadow-focus: 0 0 0 3px rgb(88 166 255 / 0.32);
+  --shadow-line: inset 0 1px 0 rgb(255 255 255 / 0.04);
+
+  /* Layout */
+  --container-content: 72rem;
+  --container-readable: 44rem;
+  --header-height: 5.75rem;
+}
+
+@media (min-width: 768px) {
+  :root {
+    --header-height: 3.5rem;
+  }
+}
+
+* {
+  border-color: rgb(var(--border));
+}
+
+html {
+  background: rgb(var(--canvas));
+  scroll-padding-top: calc(var(--header-height) + 1rem);
+}
+
+body {
+  min-width: 320px;
+  background:
+    radial-gradient(circle at 50% 0%, rgb(var(--accent) / 0.18), transparent 28rem),
+    rgb(var(--color-black));
+}
+
+::selection {
+  background: rgb(var(--accent) / 0.24);
+  color: rgb(var(--foreground));
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+  }
+}

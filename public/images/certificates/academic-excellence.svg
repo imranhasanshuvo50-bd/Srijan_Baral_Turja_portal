@@ -1,0 +1,11 @@
+<svg width="960" height="620" viewBox="0 0 960 620" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Academic Excellence Certificate</title>
+  <desc id="desc">Premium dark certificate thumbnail placeholder for academic excellence.</desc>
+  <rect width="960" height="620" fill="#0D1117"/>
+  <rect x="72" y="64" width="816" height="492" rx="28" fill="#161B22" stroke="#30363D" stroke-width="2"/>
+  <rect x="120" y="112" width="720" height="396" rx="18" fill="#0D1117" stroke="#30363D" stroke-width="2"/>
+  <path d="M190 180H770" stroke="#30363D" stroke-width="3" stroke-linecap="round"/>
+  <path d="M344 286L420 362L616 214" stroke="#58A6FF" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="480" y="420" text-anchor="middle" fill="#F0F6FC" font-family="Inter, Arial, sans-serif" font-size="42" font-weight="700">Academic Excellence</text>
+  <text x="480" y="462" text-anchor="middle" fill="#8B949E" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="500">Certificate details pending</text>
+</svg>
